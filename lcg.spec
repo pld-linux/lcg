@@ -6,6 +6,7 @@ Release:	1
 License:	distributable
 Group:		Documentation
 Source0:	http://www.tldp.org/LDP/%{name}/Consultants-Guide.html.tar.gz
+# Source0-md5:	d43716dbe6d771f57b1ee48f62e0b034
 URL:		http://www.tldp.org/LDP/%{name}/html/index.html
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)

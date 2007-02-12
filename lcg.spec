@@ -1,5 +1,5 @@
 Summary:	LDP Linux Consultants Guide
-Summary(pl):	Przewodnik po Linuksowych Konsultantach
+Summary(pl.UTF-8):   Przewodnik po Linuksowych Konsultantach
 Name:		lcg
 Version:	7.6.6
 Release:	1
@@ -17,9 +17,9 @@ Replacement for the Consultants-HOWTO. A listing of companies
 providing commercial Linux related support. For further information,
 see http://www.linuxports.com/.
 
-%description -l pl
-Nastêpca Consultants-HOWTO. Lista firm zajmuj±cych siê komercyjnie
-Linuksem. Wiêcej informacji na stronie http://www.linuxports.com/.
+%description -l pl.UTF-8
+NastÄ™pca Consultants-HOWTO. Lista firm zajmujÄ…cych siÄ™ komercyjnie
+Linuksem. WiÄ™cej informacji na stronie http://www.linuxports.com/.
 
 %prep
 %setup -q -n Consultants-Guide

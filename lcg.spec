@@ -1,5 +1,5 @@
 Summary:	LDP Linux Consultants Guide
-Summary(pl.UTF-8):   Przewodnik po Linuksowych Konsultantach
+Summary(pl.UTF-8):	Przewodnik po Linuksowych Konsultantach
 Name:		lcg
 Version:	7.6.6
 Release:	1
